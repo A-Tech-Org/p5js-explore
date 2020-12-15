@@ -3,3 +3,7 @@ function setup() {
   translate(width / 2, height / 2);
   imageMode(CENTER);
 }
+
+function draw() {
+  background(220);
+}
