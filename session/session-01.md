@@ -319,9 +319,9 @@ function draw() {
 }
 ```
 
-**To ejyoy:** 
+**To enjoy:** 
 
->> Al final de la función draw, justo despues del bucle for, añade esta linea:
+> Al final de la función draw, justo despues del bucle for, añade esta linea:
 
 ```js
  sizeCell = mouseX / width * 100;
