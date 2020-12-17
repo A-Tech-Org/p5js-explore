@@ -1,5 +1,5 @@
-const CANVAS_WIDTH = 400;
-const CANVAS_HEIGHT = 400;
+const CANVAS_WIDTH = 1024;
+const CANVAS_HEIGHT = 1024;
 
 // Posición inicial de nuestro tablero 
 let x0 = 100;
